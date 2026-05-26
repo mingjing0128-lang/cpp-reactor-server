@@ -1,0 +1,33 @@
+# 编译产物
+*.o
+*.a
+*.so
+main
+test
+client1
+client2
+client3
+client4
+client5
+client6
+server
+tcp_cli
+tcp_srv
+any
+bind
+eventfd
+request
+socket
+timerfd
+timewheel
+regex
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
